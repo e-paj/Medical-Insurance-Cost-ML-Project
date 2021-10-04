@@ -10,4 +10,4 @@
  - Data pre-processing
  - Split Train-Test Data: will be used to evaluate the performance of the model
  - Linear Regression Model
- - Trained Linear Regression Model: 
+ - Trained Linear Regression Model: a model where we will feed new data to get prediction of insruance cost
