@@ -9,4 +9,5 @@ October 04, 2021:
 - We check the statistical measures if the dataset.
 - Plot the distribution of each attribute. 
   - Univariate distribution plots for non-categorical attribtues
-  -  
+  - Countplots for categorical attributes
+- Preprocessign the dataset by encoding each categorical attributes.
