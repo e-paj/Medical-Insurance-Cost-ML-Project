@@ -11,3 +11,5 @@ October 04, 2021:
   - Univariate distribution plots for non-categorical attribtues
   - Countplots for categorical attributes
 - Preprocessign the dataset by encoding each categorical attributes.
+- Splitting the data into features and target.
+- Splitting into training and test data for both features and targert datasets.
