@@ -3,7 +3,10 @@
 October 05, 2021:
 - Splitting into training and test data for both features and targert datasets.
 - Trained the Linear Regression  model using the training dataset.
-- 
+- Predicted charges using the training dataset.
+- See the performance by getting the R-squared.
+- Did the same thing to Test Data.
+- BUilt a Predictive System.
 
 
 October 04, 2021:
