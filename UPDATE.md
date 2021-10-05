@@ -1,7 +1,10 @@
 # What I have done:
 
 October 05, 2021:
--
+- Splitting into training and test data for both features and targert datasets.
+- Trained the Linear Regression  model using the training dataset.
+- 
+
 
 October 04, 2021:
 - After we imported the data, we took the shape to know the number of entrues and attributes.
@@ -12,4 +15,3 @@ October 04, 2021:
   - Countplots for categorical attributes
 - Preprocessign the dataset by encoding each categorical attributes.
 - Splitting the data into features and target.
-- Splitting into training and test data for both features and targert datasets.
