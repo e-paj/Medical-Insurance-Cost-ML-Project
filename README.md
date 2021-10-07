@@ -4,6 +4,8 @@
 
 **Objective**:  Build a ML model that can predict the medical insurance cost using the data given by the insurance company.
 
+**Date**: Oct. 04 - 08
+
 **Workflow**:
  - Need insurance cost data: contains attributes like gender and health issues of the patient.
  - Anlayze the data: plot somee graphs to see the relationships of the attributes
