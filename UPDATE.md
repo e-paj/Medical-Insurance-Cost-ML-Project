@@ -1,5 +1,17 @@
 # What I have done:
 
+Ocotber 08, 2021:
+- Finished the rest of the report! 🎆
+- Also finished README.md section.
+
+October 07, 2021:
+- Continued on the report!
+- Finished Section B.
+
+October 06, 2021:
+- Started on the report!
+- Finished only introduction. 
+
 October 05, 2021:
 - Splitting into training and test data for both features and targert datasets.
 - Trained the Linear Regression  model using the training dataset.
