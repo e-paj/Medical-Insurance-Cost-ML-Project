@@ -23,4 +23,5 @@
 
 📜
 **References**:
+- Brownlee, J. (2016, March 25). Linear Regression for Machine Learning. *Machine Learning Mastery*. https://machinelearningmastery.com/linear-regression-for-machine-learning/
 - Siddhardhan. (2021, April 16). Project 11. Medical Insurance Cost Prediction using Machine Learning with Python | ML Projects [Video]. Youtube. https://www.youtube.com/watch?v=ntBa7YKc9XM&list=PLfFghEzKVmjsSdQ61kdqcfE2vgrsVJqL4&index=5
